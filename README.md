@@ -1,7 +1,3 @@
 ## Hi there 👋
-Switching from Networking to Devops⚡
+From Networking road to Devops⚡
 
-
-Vs code locally
-
-change number 2
